@@ -1,48 +1,43 @@
-% Academic Writing
+# Learning-Github
 
-% Nicholas Cifuentes-Goodbody
+## sub heading
 
-% December 10, 2016
+Just a sample repo for learning the basicvs of GitHub, more text
 
-# Introduction
+moretext with two line breaks between
 
-_this_ is the first paragraph
+- first time
+- second time
+- third time
+  - indented
+    1. inner number
 
-**this** is the second paragraph
+[this is the description](http://www.github.com)
 
-- the fist thing to discuss
-- the second thing to discuss
+This paragraph has some `variable` inline code
 
-this is the third paragraph
+```html
+<p>A paragraph example</p>
+```
 
-1. point 1 is important
-2. point 2 is also critical [^note]
+```javascript
+let num = Math.random();
+```
 
-# Body
+![alt text](https://picsum.photos/536/354)
 
-> I like this and we need to think about
+Some paragraph with text
 
-## Subsection
+> blockquote text below the paragraph
 
-below is a table
-| system | WER |
-| ----- | --- |
-| GMM-HMM | 10.24% |
-| Hybrid | 9.23% |
-| RNN-T | 8.20% |
+</br>
 
-Table: This is a caption
+how about this
 
-## Subsection
+| heading | header       | head |
+| ------- | ------------ | ---- |
+| content | more content | text |
+| more    | more         | more |
 
-# Conclusion
-
-[@citation_man_2016, p. 35]
-
-$$
-f(x) = \int_{-\infty}^{\infty} \hat f (\xi)\, e^{2 \pi i \xi x}, \xi
-$$
-
-# Reference
-
-[^note] here it is
+This is being _created in_ on a **Friday**
+, not a ~~Saturday~~
